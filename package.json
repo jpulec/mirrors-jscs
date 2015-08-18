@@ -3,6 +3,6 @@
     "description": "JSCS for pre-commit",
     "version": "0.0.0",
     "scripts": {
-        "preinstall": "npm install jscs@1.12.0 -g"
+        "preinstall": "npm install jscs@2.1.0 -g"
     }
 }
